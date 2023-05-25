@@ -1,0 +1,3 @@
+sage control4.sage enc key_file yeats.txt output
+rm *.py
+rm -r __pycache__
