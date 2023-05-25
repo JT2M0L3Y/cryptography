@@ -1,11 +1,4 @@
-# make files to run processes
-keygen
-encrypt
-decrypt
-fermat
-
 # intermediary data storage
-input*
 ciphertext.txt
 plaintext.txt
 private_key.txt
